@@ -1,0 +1,6 @@
+{
+  "name": "RaphaLink Healthcare",
+  "description": "Official portal of RaphaLink Healthcare Pvt Ltd, delivering advanced healthcare infrastructure and integrated HMS software solutions to optimize workflows and facility management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
